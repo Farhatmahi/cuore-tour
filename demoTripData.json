@@ -1,0 +1,46 @@
+{
+  "title": "Green Line 24/48/72 hour Hop on hop off  tour of Rome",
+  "tags": ["hop on hop off", "green line"],
+  "images": ["image1.png", "image2.png", "image3.png"],
+  "shortDescription": "Tootbus provide is the only planet-friendly Hop-on hop-off in London. Enjoy full control of your experience with live bus GPS tracking, audio guide in 5 languages and 3 different routes.",
+  "overview": [
+    {
+      "title": "Free Cancellation",
+      "description": "Cancel up to 24 hours in advance for a full refund"
+    }
+  ],
+  "whatsIncluded": [
+    "2-3 hours of thrilling entertainment for everyone",
+    "Access to Atrium Cafe & Shop with exclusive Silverstone merchandise",
+    "360-degree cinema experience",
+    "Onsite parking",
+    "Driving",
+    "Access to the Silverstone Race Circuit or main events"
+  ],
+  "experience": [
+    {
+      "fullDescription": "Get an up-close view of the winning Formula 1 cars, practice your skills as an RAF pilot, try providing commentary for a race, and find out about the science behind the sport in the engaging Tech Lab. Round off your fun-filled day with a 360-degree cinematic experience and explore the outdoor track trail. There’s something for everyone at the Silverstone Interactive Museum, not just motorsports enthusiasts."
+    },
+    {
+      "highlights": [
+        "Discover all three branches of the Chicago River with your guide, an expert in architecture",
+        "Enjoy the best vantage point to admire the distinct city skyline and architecture",
+        "See more than 40 buildings including the Wrigley Building and Willis Tower",
+        "Discover the major events that helped shape the architectural history of Chicago"
+      ]
+    },
+    {
+      "importantInformations": [
+        { "whatToBring": ["Passport or ID card"] },
+        { "notAllowed": ["pets", "smoking"] },
+        {
+          "knowBeforeYouGo": [
+            "Vouchers are valid for 1 year from the date of travel on the voucher",
+            "Entrance to the Alcazar is temporarily free so it will not be listed on any of the tickets",
+            "Alcazar is closed on Mondays"
+          ]
+        }
+      ]
+    }
+  ]
+}
